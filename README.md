@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there, I'm Krishna koumudi <br><br>I'm a **Python & AI/ML developer in progress**, currently building my skills in **Python, AI, Machine Learning, Deep Learning, and Data Science**.  <br><br>## ⚡ Fun Facts About Me<br><br>- 🎨 Love creating **art & interactive visuals**  <br>- 🚴 Enjoy **cycling, exploring Sweden & geocaching**  <br>- 🕹️ Big fan of **video games and puzzle solving**  <br>- 💡 Constantly experimenting with **AI projects and coding challenges**<br>
+ Hi there, I'm Krishna koumudi <br><br>I'm a **Python & AI/ML developer in progress**, currently building my skills in **Python, AI, Machine Learning, Deep Learning, and Data Science**.  <br><br>## ⚡ Fun Facts About Me<br><br>- 🎨 Love creating **art & interactive visuals**  <br>- 🚴 Enjoy **cycling, traveling,baking*  <br>- 🕹️ Big fan of **video games and puzzle solving**  <br>- 💡 Constantly experimenting with **AI projects and coding challenges**<br>
 
 
 ## 🌐 Socials:
